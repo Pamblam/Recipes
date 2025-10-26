@@ -57,7 +57,7 @@ In a bowl or measuring cup, stir together 1 cup of warm water (just from the hot
 
 ##### Mix Dry Ingredients
 
-![](pics/the-dries.png)
+![](pics/the-dries.jpg)
 
 In a large bowl, mix the 1 cup of bread flour, 2 cups of wheat flour, 2 tsp salt, 1/2 tsp tumeric powder, and 1/8 tsp of black pepper. Black pepper boosts cucumin  absorbtion from the tumeric.
 
