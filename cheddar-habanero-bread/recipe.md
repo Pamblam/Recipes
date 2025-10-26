@@ -16,6 +16,10 @@ I decided to add som honey to round out the spice of the peppers. Yeast loves ho
 The cheese and white flour made this bread extremely chewy. The texture and the aroma are perfect. However, I was expecting more flavor, particularly from the peppers. The spice was more of an after-effect that wasn't even really noticible until several minutes after I had eaten it. I was also hoping for more of those fruity under-tones of the habanero. Before I try adding garlic or ginger, I'd like to try roasting the peppers before adding it to the dough.
 
 
+## 2nd Loaf
+Roasting the peppers further reduced the already lacking heat and did not noticibly increase the fruity notes of the peppers. For the third attempt, I would like to double the amount of peppers, skip the roasting, and add 1/4 or 1/2 tsp of freshly ground ginger. Ginger would further increase the anti-inflammatory properties fo the bread while hopefully highlighting the pepper's deep fruity notes.
+
+
 ### Ingredients
 
  - 2 cups whole wheat flour
