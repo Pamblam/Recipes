@@ -1,6 +1,6 @@
 # Danger Bread
 
-![](pics/final-loaf.png)
+![](pics/final-loaf.jpg)
 
 The goal is to create a spicy, chewy, and savory bread with some anti-inflammatory properties. 
 
@@ -48,7 +48,7 @@ The final recipe, with all adjustments made.
 
 ##### Prep the Flavors
 
-![](pics/minced-peppers.png)
+![](pics/minced-peppers.jpg)
 
 Shred the cheese, grate the ginger, and mince the peppers. Don't use pre-shredded cheese because they add an anti-caking powder to it. Mince the peppers, discarding only the stems. Leave the seeds in. You're gonna want to wear gloves.
 
@@ -63,7 +63,7 @@ In a large bowl, mix the 1 cup of bread flour, 2 cups of wheat flour, 2 tsp salt
 
 ##### Mix the Wets and the Dries
 
-![](pics/shaggy-dough.png)
+![](pics/shaggy-dough.jpg)
 
 First stir your 2 tbsp olive oil in with the yeast and water mixture, then mix the wets in with the dries until it just starts to come together. Don't over-mix at this stage. The dough should look shaggy.
 
@@ -75,7 +75,7 @@ Fold in the cheese and the minced papper by hand. Wear your gloves. Save about 3
 
 ##### Knead the dough
 
-![](pics/kneaded-dough.png)
+![](pics/kneaded-dough.jpg)
 
 Knead the dough on a lightly floured surface. Wear your gloves. Do this for about 10 minutes until the cheese homogenizes with the dough and the dough is bouncy and springy.
 
@@ -94,4 +94,4 @@ After the oven is hot, throw the loaf in and set a timer for 35 minutes.
 ##### Let it Cool
 Let it cool for 30 minutes before cutting it.
 
-![](pics/sliced-loaf.png)
+![](pics/sliced-loaf.jpg)
