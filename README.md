@@ -1,3 +1,3 @@
 # Recipes
 
-- [Cheddar Habanero Bread](cheddar-habanero-bread/recipe.md)
+- [Danger Bread](danger-bread/recipe.md)
